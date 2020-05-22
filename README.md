@@ -5,6 +5,8 @@ This is an easy to use SwiftUI Radiobuttons implementation. Have fun using it!
 
 You can implement it just by a few lines of code like this:
 
+
+```
 struct ContentView: View {
     var body: some View {
         HStack {
@@ -17,7 +19,7 @@ struct ContentView: View {
         }.padding()
     }
 }
-
+```
 
 
 ![Example 2](/Example2.png)
